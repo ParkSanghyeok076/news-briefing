@@ -1,0 +1,11 @@
+# 로컬 JSON 수집 결과 (report/*.md 는 push, reports/*.json 은 로컬 전용)
+reports/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 환경
+.env
+*.env.local
